@@ -1,5 +1,7 @@
 # miciudad-web-desktop
-SITIO WEB UTILIZADO POR LA FIRMA SISCOM SRL 
+SITIO WEB FRONT END UTILIZADO POR LA FIRMA SISCOM SRL , DONDE LOS CLIENTES Y COMERCIOS ADHERIDOS CUENTAN CON HERRAMIENTAS DE AUTOGESTION
+
+
 <br> <img src="https://www.fpsoft.com.ar/githubimg/mic_1.jpeg" width="200" height="200"><br>
 <br> <img src="https://www.fpsoft.com.ar/githubimg/mic_2.jpeg" width="200" height="200"><br>
 <br> <img src="https://www.fpsoft.com.ar/githubimg/mic_3.jpeg" width="200" height="200"><br>
